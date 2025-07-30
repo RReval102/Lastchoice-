@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://sun9-2.userapi.com/s/v1/ig2/ccJK7U-_V8j_R8WB5RuvX82_aJKG1yRZJG5eivrcLoVBapd8ECmedx9Ep2ZJardx-cKZo46cP23_VeHOAa-MjSYX.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=512x0))
 
 
 
