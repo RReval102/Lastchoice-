@@ -1,3 +1,7 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
 # Представляем вашему вниманию "Last choice" – игру, которая погрузит вас в глубины человеческой души, заставив столкнуться с немыслимым. Это не просто игра, это психологический эксперимент, где каждое ваше решение имеет вес, а последствия отзываются болью и размышлениями.
 
 ## О чем эта игра?
